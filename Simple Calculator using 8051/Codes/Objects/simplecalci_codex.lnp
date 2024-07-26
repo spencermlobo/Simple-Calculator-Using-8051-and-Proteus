@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\codex.obj" 
+TO ".\Objects\simplecalci_codex" 
+PRINT(".\Listings\simplecalci_codex.m51")
